@@ -1,0 +1,10 @@
+name: ProtocolSupportTab
+main: protocolsupporttab.ProtocolSupportTab
+version: 1.0
+author: _Shevchik_
+depend: [ProtocolSupport]
+commands:
+  protocolsupporttab:
+    description: All ProtocolSupportTab commands
+    aliases: pst
+    usage: Invalid command
